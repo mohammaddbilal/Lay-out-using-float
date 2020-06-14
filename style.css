@@ -1,0 +1,43 @@
+h1{text-align: center;}
+.header{color: white;
+background-color: tomato;
+min-height:120px;
+font-size: 20px; font-weight: bolder;
+}
+
+.wrapper
+{
+border: 2px solid white;
+overflow: hidden;}
+.blog
+{background-color: rgba(174, 250, 133, 1);
+width: 75%;
+height:350px;
+float: left;}
+.contact
+{background-color: #aeff00;
+width: 25%;
+height:350px;
+float: right;}
+.wrapper1{overflow: hidden;}
+.column1{background-color: rgba(500, 200, 145,.8);
+width: 33.5%;
+height:90px;
+float: left;}
+.column2{background-color: orange;
+width: 33%;
+height:90px;
+float: left;}
+.column3{background-color: violet;
+width: 33.5%;
+height:90px;
+float: left;}
+.footer
+{background-color: rgba(129, 238, 209, 1);
+height: 100px;
+clear: both;
+text-align: center;
+}
+
+
+
